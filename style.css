@@ -1,0 +1,22 @@
+body [
+    margin:0;
+    
+]
+
+}
+p{
+    color:darkslategray;
+    color: darkslategrey;
+}
+h1{
+    font-size: 30px;
+    color:black;
+}
+h2{
+    font-size: 50px;
+    color: darkslategrey;
+    font-style: italic;
+}
+body{
+    background-color:rgb(162, 190, 190) ;
+}
